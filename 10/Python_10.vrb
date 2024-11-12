@@ -1,0 +1,16 @@
+\frametitle{Pendulum ODE Function in Python}
+\begin{verbatim}
+def pendulum_ode(t, y, g = 9.81, L = 3.0):
+    """
+    input:
+    t: current time
+    y: array [theta, omega] containing the current angle and angular velocity
+    g: gravitational constant (default: 9.81 m/s^2)
+    L: length of the pendulum (default: 1.0 m)
+
+    output:
+    Array [omega, - (g / L) * np.sin(theta)] representing the first derivatives of theta and omega
+    """
+    theta, omega = y
+    return [omega, - (g / L) * np.sin(theta)]
+\end{verbatim}

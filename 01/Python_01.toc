@@ -1,0 +1,5 @@
+\babel@toc {ngerman}{}\relax 
+\beamer@sectionintoc {1}{Introduction}{4}{0}{1}
+\beamer@sectionintoc {2}{Python \& VsCode}{7}{0}{2}
+\beamer@sectionintoc {3}{Git \& GitLab}{9}{0}{3}
+\beamer@sectionintoc {4}{Additional Resources}{24}{0}{4}

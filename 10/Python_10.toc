@@ -1,0 +1,7 @@
+\babel@toc {ngerman}{}\relax 
+\beamer@sectionintoc {2}{Differentiation in Python}{3}{0}{1}
+\beamer@sectionintoc {3}{Integration in Python}{7}{0}{2}
+\beamer@sectionintoc {4}{Numerical Solution of Initial Value Problems}{15}{0}{3}
+\beamer@sectionintoc {5}{File I/O (BONUS)}{24}{0}{4}
+\beamer@sectionintoc {6}{ASCII Encoding (BONUS)}{34}{0}{5}
+\beamer@sectionintoc {7}{pickle (BONUS)}{39}{0}{6}

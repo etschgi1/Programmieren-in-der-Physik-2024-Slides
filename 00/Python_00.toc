@@ -1,0 +1,8 @@
+\babel@toc {ngerman}{}\relax 
+\beamer@sectionintoc {1}{Introduction}{4}{0}{1}
+\beamer@sectionintoc {2}{Binary numbers}{7}{0}{2}
+\beamer@sectionintoc {3}{Hexadecimal numbers}{12}{0}{3}
+\beamer@sectionintoc {4}{How do Computers work}{17}{0}{4}
+\beamer@sectionintoc {5}{How do Computers communicate}{37}{0}{5}
+\beamer@sectionintoc {6}{Software Survival Kit}{47}{0}{6}
+\beamer@sectionintoc {7}{Additional Resources}{73}{0}{7}

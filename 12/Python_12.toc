@@ -1,0 +1,6 @@
+\babel@toc {ngerman}{}\relax 
+\beamer@sectionintoc {2}{What is object oriented programming?}{3}{0}{1}
+\beamer@sectionintoc {3}{Python classes}{7}{0}{2}
+\beamer@sectionintoc {4}{Dunder-methods}{14}{0}{3}
+\beamer@sectionintoc {5}{Inheritance}{21}{0}{4}
+\beamer@sectionintoc {6}{Wrap up + What's next?}{29}{0}{5}

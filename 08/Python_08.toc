@@ -1,0 +1,5 @@
+\babel@toc {ngerman}{}\relax 
+\beamer@sectionintoc {2}{Lambda functions}{3}{0}{1}
+\beamer@sectionintoc {3}{Curve fitting}{10}{0}{2}
+\beamer@sectionintoc {4}{Interpolation}{18}{0}{3}
+\beamer@sectionintoc {5}{Input / Output (I/O)}{25}{0}{4}

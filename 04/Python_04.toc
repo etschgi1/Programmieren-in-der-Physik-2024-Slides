@@ -1,0 +1,4 @@
+\babel@toc {ngerman}{}\relax 
+\beamer@sectionintoc {2}{Data types \& Operators}{4}{0}{1}
+\beamer@sectionintoc {3}{Lists \& Tuples}{17}{0}{2}
+\beamer@sectionintoc {4}{Branching}{22}{0}{3}

@@ -1,0 +1,5 @@
+\babel@toc {ngerman}{}\relax 
+\beamer@sectionintoc {2}{Uncertainties in Python}{3}{0}{1}
+\beamer@sectionintoc {3}{Test Driven Development (TDD) in Python}{14}{0}{2}
+\beamer@sectionintoc {4}{What is object oriented programming?}{26}{0}{3}
+\beamer@sectionintoc {5}{Python classes}{30}{0}{4}

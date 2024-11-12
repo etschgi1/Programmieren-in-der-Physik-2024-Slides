@@ -1,0 +1,6 @@
+\babel@toc {ngerman}{}\relax 
+\beamer@sectionintoc {2}{Indexing revisited}{3}{0}{1}
+\beamer@sectionintoc {3}{Scope}{11}{0}{2}
+\beamer@sectionintoc {4}{Call by value vs. call by reference}{14}{0}{3}
+\beamer@sectionintoc {5}{Copy vs. Deepcopy}{17}{0}{4}
+\beamer@sectionintoc {6}{Further numpy examples}{21}{0}{5}

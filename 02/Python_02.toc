@@ -1,0 +1,6 @@
+\babel@toc {ngerman}{}\relax 
+\beamer@sectionintoc {2}{Numpy}{3}{0}{1}
+\beamer@sectionintoc {3}{Generate random numbers}{12}{0}{2}
+\beamer@sectionintoc {4}{Matplotlib}{15}{0}{3}
+\beamer@sectionintoc {5}{File I/O}{25}{0}{4}
+\beamer@sectionintoc {6}{Numpy (extra)}{30}{0}{5}
